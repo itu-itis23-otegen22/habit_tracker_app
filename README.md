@@ -22,8 +22,8 @@ Other technical details:
 ## How to Use?
 
 1. Unzip zipped folder
-2. Open main.py 
-3. Open the app with native console of the Windows OS. (cmd)
+2. Find "main.py" file inside "src" folder
+3. Open the app with native console of the Windows OS (cmd) by double clicking.
 4. Use the app in fullscreen mode in order to avoid any displaying issues.
 
 When the app is opened, welcoming page will be seen as below, where you can register or log in:
