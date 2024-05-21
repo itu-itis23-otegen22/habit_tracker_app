@@ -1,7 +1,7 @@
 
 # Samurai's Discipline
 
-This is console-based Habit Tracker application, which includes the following **functionalities** and **features**:
+This is console-based Habit Tracker application, which allows users to write down habits (or to do tasks) and helps with sticking to them. The app is written solely in Python and includes the following **functionalities** and **features**:
 1. User Authentication (registration and log in)
 2. Encryption of passwords and names of files
 3. User's Manual
@@ -15,6 +15,7 @@ Other technical details:
 2. Binary search for finding the username
 3. Advanced custom Caesar Encryption method
 4. Validations (password, username, etc)
+
 
 
 
@@ -51,10 +52,11 @@ You can add a habit by entering "a" or "add". Same applies to other options too.
 
 
 
+
 ## Find a Bug
 
 If you found any bug, or have some feedback on how to improve the product, you can fill out the [The Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSe5HqEexhwNmDsihB1Ipqanh7TqP5CdyXhxgm49ocS7fBPE4A/viewform?usp=sf_link).
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSe5HqEexhwNmDsihB1Ipqanh7TqP5CdyXhxgm49ocS7fBPE4A/viewform?usp=sf_link" target="_blank">link</a>
+
 ## 👋🏻
 
 
