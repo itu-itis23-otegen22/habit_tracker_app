@@ -50,7 +50,8 @@ You can add a habit by entering "a" or "add". Same applies to other options too.
 --- You can see your performance for last week and last month for each habit, or general average progress for last 6 weeks or monthes:
 ![Progress Graphs](./src/images/graphs.png)
 
-
+--- You can try all other functionalities available there. 50% of the time was spent for testing and debugging in order to minimize the possibility of logical errors.
+When changing the details of accounts or habits, corresponding changes in CSV files also happen. Everything should be consistent and coherent.
 
 
 ## Find a Bug
