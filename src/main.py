@@ -71,7 +71,32 @@ def start():
 
 # --------------------------------------------------------------------- User Manual
 def user_manual():
-	pass
+	clear()
+	print("""
+	Welcome to the Samurai's Discipline!
+
+	This is console-based Habit Tracker application,
+	which allows users to write down habits (or to do tasks) 
+	and helps with sticking to them.
+
+	You can create a new account or log in if you already have one.
+
+	In UI, when you see "---> ", it means you should enter and input.
+	It can be one the options available or other input depending
+	on the context of what is asked.
+
+	When you see "- - - Press Enter to continue - - -", it means
+	in order to continue you should just click Enter button.
+
+	Sometimes, after making some changes, and some text was outputted,
+	there can be time delay, but it usually does not last more than
+	2-3 seconds.
+
+	NOTE! When text is being printed, do not press enter, it will
+	it as an command for the next input request.
+	
+		""")
+	enter()
 
 # --------------------------------------------------------------------- Registration
 def register():
