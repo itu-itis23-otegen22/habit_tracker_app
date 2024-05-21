@@ -25,6 +25,8 @@ Other technical details:
 2. Find "main.py" file inside "src" folder
 3. Open the app with native console of the Windows OS (cmd) by double clicking.
 4. Use the app in fullscreen mode in order to avoid any displaying issues.
+5. (Only 3 files are needed for the app to run properly, which are "main.py", "new_menu.py", "functions.py".
+Other files are saved in the project app in order to provide example users and habits with history.)
 
 When the app is opened, welcoming page will be seen as below, where you can register or log in:
 ![Welcome page](./src/images/welcome_page.png)
