@@ -1,3 +1,10 @@
+student: Kuanysh Otegen
+student number: 150220932
+
+( NOTE! )
+( Go to GitHub link below in order to see README.md, there app interface images can be seen.)
+( https://github.com/itu-itis23-otegen22/habit_tracker_app/tree/main )
+
 
 # Samurai's Discipline
 
@@ -54,6 +61,11 @@ You can add a habit by entering "a" or "add". Same applies to other options too.
 
 --- You can try all other functionalities available there. 50% of the time was spent for testing and debugging in order to minimize the possibility of logical errors.
 When changing the details of accounts or habits, corresponding changes in CSV files also happen. Everything should be consistent and coherent.
+
+
+## Requirements
+Windows 10 or 11
+Python version in my PC was 3.12
 
 
 ## Find a Bug
