@@ -27,7 +27,7 @@ Other technical details:
 4. Use the app in fullscreen mode in order to avoid any displaying issues.
 
 When the app is opened, welcoming page will be seen as below, where you can register or log in:
-![Welcome page](./images/welcome_page.png)
+![Welcome page](./src/images/welcome_page.png)
 
 --- You can register as a new user, but you will have to add habits and you will have no progress history to visualize. That is why, you can log in to existing account with some history.
 Account details:
@@ -35,20 +35,20 @@ username: gatsby
 password: Gatsby1!
 
 --- When you log in, you can see the following menu page, where your current habits and recent days are shown.
-![Menu page](./images/menu.png)
+![Menu page](./src/images/menu.png)
 
 You have variety of options there, also you can enter the ID of the habit in the table in order to change its value for today.
 
 You can add a habit by entering "a" or "add". Same applies to other options too.
 
 --- For example, we can update a habit by entering "u" or "update":
-![Update page](./images/habit_update.png)
+![Update page](./src/images/habit_update.png)
 
 --- Or you can go into settings and change your account details or displayed table related instance:
-![Settings page](./images/settings.png)
+![Settings page](./src/images/settings.png)
 
 --- You can see your performance for last week and last month for each habit, or general average progress for last 6 weeks or monthes:
-![Progress Graphs](./images/graphs.png)
+![Progress Graphs](./src/images/graphs.png)
 
 
 
