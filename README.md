@@ -56,8 +56,8 @@ When changing the details of accounts or habits, corresponding changes in CSV fi
 
 
 ## Requirements
-Windows 10 or 11
-Python version in my PC was 3.12
+1. Windows 10 or 11
+2. Python version in my PC was 3.12
 
 
 ## Find a Bug
