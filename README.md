@@ -1,11 +1,3 @@
-student: Kuanysh Otegen
-student number: 150220932
-
-( NOTE! )
-( Go to GitHub link below in order to see README.md, there app interface images can be seen.)
-( https://github.com/itu-itis23-otegen22/habit_tracker_app/tree/main )
-
-
 # Samurai's Discipline
 
 This is console-based Habit Tracker application, which allows users to write down habits (or to do tasks) and helps with sticking to them. The app is written solely in Python and includes the following **functionalities** and **features**:
