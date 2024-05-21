@@ -446,8 +446,7 @@ def add_habit(username):
 		print("Invalid input. Please enter a valid integer between 1-7.")
 
 	# start date is today
-	#start_date = date.today()
-	start_date = datetime.strptime("2023-05-12", '%Y-%m-%d').date()#--------------------------
+	start_date = date.today()
 	start = start_date.strftime("%y-%m-%d")  # string date as YY-MM-DD
 
 	# Taking end date
