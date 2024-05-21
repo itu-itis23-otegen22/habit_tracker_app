@@ -54,7 +54,7 @@ You can add a habit by entering "a" or "add". Same applies to other options too.
 ## Find a Bug
 
 If you found any bug, or have some feedback on how to improve the product, you can fill out the [The Google Forms](https://docs.google.com/forms/d/e/1FAIpQLSe5HqEexhwNmDsihB1Ipqanh7TqP5CdyXhxgm49ocS7fBPE4A/viewform?usp=sf_link).
-
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSe5HqEexhwNmDsihB1Ipqanh7TqP5CdyXhxgm49ocS7fBPE4A/viewform?usp=sf_link" target="_blank">link</a>
 ## 👋🏻
 
 
