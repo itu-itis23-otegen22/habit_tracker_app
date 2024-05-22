@@ -307,7 +307,7 @@ def table(username, table_num_days = 5, key=""):
 	today = datetime.today().date() # getting today's date
 
 	table_data = [] # creating empty list to store rows of the table that wil be shown
-
+	idn = 0
 	# Iterating each habit in the dataframe
 	for i, row in df.iterrows():
 		habit_name = row['habit']
@@ -321,7 +321,7 @@ def table(username, table_num_days = 5, key=""):
 			continue
 		
 		# List for the habit's row
-		idn = str(i+1)
+		idn += 1
 		habit_row = [idn, habit_name]
 
 		# Number of accomplishments for the last week
